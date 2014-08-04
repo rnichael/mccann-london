@@ -124,7 +124,7 @@ footer ul li.logo { text-align: center; padding-top: 0; }
 footer ul li.right { text-align: right; }
 footer ul li a { color: #fff; }
 
-/*--- MOBssILE MENU ---*/
+/*--- MOBILE MENU ---*/
 
 .menu-toggle  { width: 100%; padding-bottom: 10px; }
 .toggle { visibility: hidden; position: absolute; left: -9999px; }
